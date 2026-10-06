@@ -1,0 +1,6 @@
+{
+  "name": "Maronza Spin & Win R5 Airtime",
+  "description": "Spin the wheel and win R5 Free Airtime instantly! South Africa's favorite daily giveaway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
